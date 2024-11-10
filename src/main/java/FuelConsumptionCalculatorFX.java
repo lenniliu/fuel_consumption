@@ -23,7 +23,7 @@ public class FuelConsumptionCalculatorFX extends Application {
 
     @Override
     public void start(Stage primaryStage) {
-        primaryStage.setTitle("Fuel Consumption Calculator");
+        primaryStage.setTitle("Lenni Liukkonen");
 
         // Default locale is English
         setLocale(new Locale("en", "US"));
